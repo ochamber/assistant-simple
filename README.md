@@ -20,6 +20,13 @@ You can view a [demo][demo_url] of this app.
 
 If you want to modify the app or use it as a basis for building your own app, install it locally. You can then deploy your modified version of the app to IBM Cloud.
 
+install the code for the sample program
+--------------------------------------------------------------------------------
+
+Click the magical button below to deploy the app.
+
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy)
+
 ### Getting the files
 
 Use GitHub to clone the repository locally, or [download the .zip file](https://github.com/watson-developer-cloud/assistant-simple/archive/master.zip) of the repository and extract the files.
