@@ -4,8 +4,8 @@ declared-services:
     label: conversation
     plan: free
 applications:
-- name: watson-assistant-simple-${random}
-  host: watson-assistant-simple-${random}
+- name: watson-assistant-simple-test
+  host: watson-assistant-simple-test
   command: npm start
   path: .
   memory: 256M
