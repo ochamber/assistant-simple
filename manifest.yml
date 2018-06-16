@@ -5,7 +5,7 @@ declared-services:
     plan: free
 applications:
 - name: watson-assistant-simple-test
-  host: watson-assistant-simple-test
+  random-route: true
   command: npm start
   path: .
   memory: 256M
