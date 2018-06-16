@@ -4,8 +4,7 @@ declared-services:
     label: conversation
     plan: free
 applications:
-- name: watson-assistant-simple-test
-  random-route: true
+- name: watson-assistant-simple-irb
   command: npm start
   path: .
   memory: 256M
